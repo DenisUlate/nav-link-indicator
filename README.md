@@ -9,6 +9,18 @@ Un componente de navegación interactivo con un indicador visual animado que se 
 - **Responsive**: Se adapta al ancho de cada enlace automáticamente
 - **Fácil de personalizar**: CSS modular y JavaScript comentado
 
+## 📸 Preview
+
+![Nav Link Indicator Preview](./preview.png)
+
+<!-- Imagen temporal mientras creas la real -->
+<!-- ![Nav Link Indicator Preview](https://via.placeholder.com/800x300/0f1219/08f9ff?text=Nav+Link+Indicator+Preview) -->
+
+<!-- Para mostrar una animación, también puedes usar un GIF -->
+<!-- ![Nav Link Indicator Demo](./demo.gif) -->
+
+_Captura de pantalla mostrando el indicador animado en acción_
+
 ## 🚀 Uso
 
 1. **Clona o descarga** este repositorio
